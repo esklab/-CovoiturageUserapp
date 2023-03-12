@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "394026151303",
+    "firebase_url": "https://ubme-258c9-default-rtdb.firebaseio.com",
+    "project_id": "ubme-258c9",
+    "storage_bucket": "ubme-258c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394026151303:android:0dea87e2b0dacc7ae67722",
+        "android_client_info": {
+          "package_name": "com.esk.uberme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394026151303-rmjjtbaffkn9gcjlmp0hh5opv6cei5fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIAh0Oey0TMKjBs3vndNRr74iYGIuRgk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394026151303-rmjjtbaffkn9gcjlmp0hh5opv6cei5fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394026151303:android:4c0c8b343f24f13ae67722",
+        "android_client_info": {
+          "package_name": "com.esk.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394026151303-rmjjtbaffkn9gcjlmp0hh5opv6cei5fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIAh0Oey0TMKjBs3vndNRr74iYGIuRgk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394026151303-rmjjtbaffkn9gcjlmp0hh5opv6cei5fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
